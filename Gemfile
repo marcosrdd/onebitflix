@@ -36,6 +36,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'pg_search'
 gem 'fast_jsonapi', git:"https://github.com/Netflix/fast_jsonapi", branch: "dev"
+gem 'aws-sdk-s3'
 
 
 
